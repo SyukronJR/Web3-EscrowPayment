@@ -17,11 +17,14 @@ Thumbs.db
 frontend/node_modules/
 frontend/.next/
 frontend/out/
+frontend/.env
+frontend/.env.local
 
 # Smart Contract
 smart-contract/node_modules/
 smart-contract/artifacts/
 smart-contract/cache/
+smart-contract/.env
 
 # VS Code
 .vscode/
