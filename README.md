@@ -143,7 +143,6 @@ npx hardhat compile
 
 **Muhammad Syukron**
 
-Information Technology Student
 
 GitHub:
 https://github.com/SyukronJR
