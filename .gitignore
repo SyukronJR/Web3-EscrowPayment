@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Root dependencies
+/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Smart Contract
+smart-contract/node_modules/
+smart-contract/artifacts/
+smart-contract/cache/
+
+# VS Code
+.vscode/
+
+# Optional
+*.tsbuildinfo
